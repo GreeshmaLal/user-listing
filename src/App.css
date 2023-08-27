@@ -170,9 +170,9 @@ button {
 }
 
 .completed-button {
-  position: fixed;
-  bottom: 2.4375rem;
-  right: 3.875rem;
+  margin-left: auto;
+  margin-top: auto;
+  position: relative;
 }
 
 .search {
